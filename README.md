@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XDawnBreakerX
 - 👀 I’m interested in learning as much as i can related to different areas of coding like Web Development, Mobile App Development, etc.
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on <nothing as of now>
 - 📫 How to reach me -> Email: grishighesh@gmail.com
 
